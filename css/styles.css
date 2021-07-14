@@ -1,0 +1,8 @@
+.gallerys {
+  display: flex;
+  justify-content: space-between;
+}
+.imag {
+  width: 350px;
+  height: 100%;
+}
